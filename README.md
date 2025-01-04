@@ -9,3 +9,5 @@ A tool to archive logs from the CLI with date and time.
 
    ```bash
    sudo ./log-archive.sh /path/to/log/directory 
+
+https://roadmap.sh/projects/log-archive-tool
